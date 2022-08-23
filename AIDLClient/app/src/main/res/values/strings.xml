@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AIDL Client</string>
+    <string name="enter_name">Nhập tên sinh viên</string>
+    <string name="find">Tìm</string>
+    <string name="add">Thêm</string>
+    <string name="edit">Sửa</string>
+    <string name="del">Xóa</string>
+    <string name="std">Sinh viên: </string>
+    <string name="age">Tuổi: </string>
+    <string name="id">Mã số: </string>
+    <string name="math">Toán: </string>
+    <string name="chemist">Hóa: </string>
+    <string name="eng">Anh: </string>
+    <string name="liture">Văn: </string>
+    <string name="cancel">Hủy</string>
+    <string name="ok">OK</string>
+    <string name="physic">Lý: </string>
+    <string name="name">Tên: </string>
+    <string name="save">Lưu</string>
+</resources>
